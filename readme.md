@@ -63,3 +63,7 @@
 [Update - Deutschlandfunk Nova](http://www.deutschlandfunknova.de/update)
 
 > Was heute wichtig war – aktuelle Nachrichten des Tages, Hintergrundwissen und Unterhaltung. Neue Folgen täglich montags bis freitags.
+
+[Tagesschau in 100 Sekunden](https://www.tagesschau.de/infoservices/podcast/)
+
+> Der Tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast.
