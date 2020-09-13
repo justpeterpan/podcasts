@@ -67,3 +67,11 @@
 [Tagesschau in 100 Sekunden](https://www.tagesschau.de/infoservices/podcast/)
 
 > Der Tagesschau-Nachrichtenüberblick in 100 Sekunden als Audio-Podcast.
+
+[programmier.bar](https://www.programmier.bar/)
+
+> Die programmier.bar lädt regelmäßig spannende Gäste aus der Welt der App- und Webentwicklung zum Gespräch ein. Es geht um neue Technologien, unsere liebsten Tools und unsere Erfahrungen aus dem Entwickler-Alltag mit all seinen Problemen und Lösungswegen.
+
+[Verbrechen der Vergangenheit](https://art19.com/shows/verbrechen)
+
+> Seit Anbeginn seiner Geschichte stiehlt, raubt und mordet der Mensch. Tötet aus Hab- und Machtgier, um seiner Ehre willen, aus sadistischer Lust - und manchmal schlicht, um selbst zu überleben. In "Verbrechen der Vergangenheit", dem Crime-Podcast von GEO EPOCHE, widmen wir uns Taten, die noch heute erschrecken und berühren. Präsentiert als packende Zeitreisen ohne Staub und Zahlenkolonnen, akribisch recherchiert und sachkundig erläutert von Mitarbeitern der Redaktion. Unter anderem tauchen wir ein in die Elendsviertel Londons, wo um 1830 skrupellose Leichenverkäufer ihr Unwesen treiben. Wir begeben uns auf die Spuren legendenumwobener Verbrecher wie Pablo Escobar, reisen zu den Grabräubern im Alten Ägypten - und begegnen dem vielleicht schlimmsten Serienmörder aller Zeiten.Seit Anbeginn seiner Geschichte stiehlt, raubt und mordet der Mensch. Tötet aus Hab- und Machtgier, um seiner Ehre willen, aus sadistischer Lust - und manchmal schlicht, um selbst zu überleben. In "Verbrechen der Vergangenheit", dem Crime-Podcast von GEO EPOCHE, widmen wir uns Taten, die noch heute erschrecken und berühren. Präsentiert als packende Zeitreisen ohne Staub und Zahlenkolonnen, akribisch recherchiert und sachkundig erläutert von Mitarbeitern der Redaktion. Unter anderem tauchen wir ein in die Elendsviertel Londons, wo um 1830 skrupellose Leichenverkäufer ihr Unwesen treiben. Wir begeben uns auf die Spuren legendenumwobener Verbrecher wie Pablo Escobar, reisen zu den Grabräubern im Alten Ägypten - und begegnen dem vielleicht schlimmsten Serienmörder aller Zeiten.
